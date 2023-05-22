@@ -1,12 +1,11 @@
 ### Всем привет, меня зовут Владислав 👋
 
-📖 Окончил факультет веб-разработки Яндекс.Практикума.
-🌱 В настоящий момент углубляю знания JS, React и Node.js.
+- 📖 Окончил факультет веб-разработки Яндекс.Практикума.
+- 🌱 В настоящий момент углубляю знания JS, React и Node.js.
+- 📫 Связаться со мной: vladislawpavlov@gmail.com
 
 ### Мой стек
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vscode)](https://skillicons.dev)
-
-📫 Связаться со мной: vladislawpavlov@gmail.com
 
 <!--
 **vldslw/vldslw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

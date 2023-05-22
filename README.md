@@ -5,7 +5,7 @@
 - 💻 Открыт к сотрудничеству и удаленной работе.
 
 ### Мой стек
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vscode)](https://skillicons.dev)
 
 <!--
 **vldslw/vldslw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

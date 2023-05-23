@@ -2,7 +2,7 @@
 
 - 📖 Окончил факультет веб-разработки Яндекс.Практикума.
 - 🌱 В настоящий момент углубляю знания JS, React и Node.js.
-- 📫 Связаться со мной: vladislawpavlov@gmail.com
+- 📫 Связаться со мной: ✉️ vladislawpavlov@gmail.com, Telegram: [@vldslw](https://t.me/vldslw)
 
 ### Мой стек
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vscode)](https://skillicons.dev)

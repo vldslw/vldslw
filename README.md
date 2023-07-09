@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on my pet projects.
 - 📖 Yandex Practicum web development faculty.
 - 🌱 I’m currently learning TypeScript, Vue.js and Redux, improving my skills in JavaScript and React.
-- 📫 How to reach me: [Telegram](https://t.me/vldslw)
+- 📫 The best way to reach me: [Telegram](https://t.me/vldslw)
+- 📩 vldslw@gmail.com
 
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vscode)](https://skillicons.dev)

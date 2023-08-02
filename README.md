@@ -1,8 +1,7 @@
 ### Hi, I'm Vlad 👋
 
-- 🔭 I’m currently working on my pet projects.
 - 📖 Yandex Practicum web development faculty.
-- 🌱 I’m currently learning TypeScript, Vue.js and Redux, improving my skills in JavaScript and React.
+- 🌱 I’m currently learning Vue.js and Redux, improving my skills in JavaScript and React.
 - 📫 The best way to reach me: [Telegram](https://t.me/vldslw)
 - 📩 vldslw@gmail.com
 

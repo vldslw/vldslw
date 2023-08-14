@@ -1,6 +1,7 @@
 ### Hi, I'm Vlad 👋
 
 - 📖 Yandex Practicum web development faculty.
+- 🌱 Currently working on EasyFit pet-project: [https://github.com/physical-activity](https://github.com/physical-activity)
 - 📫 The best way to reach me: [Telegram](https://t.me/vldslw)
 - 📩 vldslw@gmail.com
 

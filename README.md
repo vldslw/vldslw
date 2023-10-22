@@ -5,7 +5,7 @@
 - 📫 The best way to reach me: [Telegram](https://t.me/vldslw)
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,next,nuxt,html,css,scss,nodejs,mongodb)](https://skillicons.dev)
 
 
 <!-- 

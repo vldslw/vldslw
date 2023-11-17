@@ -1,7 +1,6 @@
 ### Hi, I'm Vlad 👋
 
-- 📔 My portfolio: [vldslw.onrender.com](https://vldslw.onrender.com/)
-- 📖 Yandex Practicum web development faculty.
+- 📔 My portfolio: [vldslw.vercel.app](https://vldslw.vercel.app/)
 - 📫 The best way to reach me: [Telegram](https://t.me/vldslw)
 
 ### My skills

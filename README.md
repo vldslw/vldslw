@@ -4,8 +4,6 @@ Hi 👋 My name is Vlad
 I'm a Frontend Web Developer who specializes in building JavaScript, React, and Vue web apps.
 
 * 🌍  I'm based in Buenos Aires, Argentina
-* ✉️  You can contact me at [vldslw@gmail.com](mailto:vldslw@gmail.com)
-* 📫 Or reach out to me on [Telegram](https://t.me/vldslw)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
